@@ -1,0 +1,3 @@
+[submodule "miPhysics_Processing"]
+	path = miPhysics_Processing
+	url = https://github.com/mi-creative/miPhysics_Processing.git
